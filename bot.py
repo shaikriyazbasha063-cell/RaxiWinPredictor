@@ -20,14 +20,14 @@ from telegram.ext import (
 # CONFIGURATION - BDG GAME
 # ==========================================
 # ⚠️ PASTE YOUR BOT TOKEN HERE
-TOKEN ="8740602277:AAHCyrrNtkUBg3Pn0-15vqU_igl0Eec0Xm4"
+TOKEN ="8740602277:AAHCyrrNtkUBg3Pn0-i5vqU_igl0Eec0Xm4"
 
 ADMIN_ID = "@proearner0"
-REGISTER_LINK ="https://bdg4.vip//#/register?invitationCode=x5Vcp861092"
-INVITE_CODE ="x5Vcp861092"
-TELEGRAM_CHANNEL ="https://t.me/+H8f_nP-zUCZhMzll"
-TODAY_GIFT_CODE ="4346F170B0051BD21B95EE9DECBAC10C"
-ADMIN_NUMERIC_ID =6081001025
+REGISTER_LINK = "https://bdg4.vip/#/register?invitationCode=x5Vcp861092"
+INVITE_CODE = "x5Vcp861092"
+TELEGRAM_CHANNEL = "https://t.me/+H8f_nP-zUCZhMzll"
+TODAY_GIFT_CODE = "4346F170B0051BD21B95EE9DECBAC10C"
+ADMIN_NUMERIC_ID = 6081001025
 LOG_CHANNEL_ID = ADMIN_NUMERIC_ID
 
 SUPABASE_URL = "https://izxzdcvymipyvxcrgbee.supabase.co"
