@@ -17,10 +17,10 @@ from telegram.ext import (
 # CONFIGURATION
 # ==========================================
 # ⚠️ PASTE YOUR NEW PREDICTOR BOT TOKEN HERE
-TOKEN = "PASTE_YOUR_NEW_PREDICTOR_BOT_TOKEN_HERE"
+TOKEN ="8994009994:AAGCaAptekIIGheR2yHOarKRgJlypnH_PVk"
 
 # Your numeric Telegram ID (admin)
-ADMIN_NUMERIC_ID = 6081001025
+ADMIN_NUMERIC_ID =6081001025
 
 # Your prediction channel for auto-posting
 # Leave empty ("") if you don't want auto-posting yet
